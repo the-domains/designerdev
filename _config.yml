@@ -1,0 +1,28 @@
+name: designerdev
+favicon: null
+layout_spectrum: 0.3616321487352252
+typography_spectrum: 0.025254836305975914
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5543155134655535
+  lightness: 0.841139807831496
+  saturation: 0.040600012289360166
+  rhythmicContrast: 0.9059889898635447
+purpose: []
